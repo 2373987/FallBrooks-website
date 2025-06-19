@@ -1,2 +1,2 @@
 # FallBrooks-website
-Designing a website for fallbrooks company
+Designing a website for Fallbrook Company
